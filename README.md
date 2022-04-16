@@ -9,9 +9,9 @@
 O(n^2)
 
 ## Time Complexity
-Average case: 18
-Worst case: 27
-Best case: 2
+1. Average case: 18
+2. Worst case: 27
+3. Best case: 2
 
 ## 18 sayısı Average case kapsamındadır.
 
